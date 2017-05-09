@@ -1,0 +1,35 @@
+0038	Salmonella infection NEC	Other specified salmonella infections
+0039	Salmonella infection NOS	Salmonella infection, unspecified
+0048	Shigella infection NEC	Other specified shigella infections
+0068	Amebic infection NEC	Amebic infection of other sites
+04149	E.coli infection NEC/NOS	Other and unspecified Escherichia coli [E. coli]
+0416	Proteus infection NOS	Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site
+0419	Bacterial infection NOS	Bacterial infection, unspecified, in conditions classified elsewhere and of unspecified site
+0271	Erysipelothrix infection	Erysipelothrix infection
+1218	Trematode infection NEC	Other specified trematode infections
+1219	Trematode infection NOS	Trematode infection, unspecified
+1238	Cestode infection NEC	Other specified cestode infection
+1239	Cestode infection NOS	Cestode infection, unspecified
+0598	Poxvirus infections NEC	Other poxvirus infections
+0599	Poxvirus infection NOS	Poxvirus infections, unspecified
+07951	Htlv-1 infection oth dis	Human T-cell lymphotrophic virus, type I [HTLV-I]
+07953	Hiv-2 infection oth dis	Human immunodeficiency virus, type 2 [HIV-2]
+07981	Hantavirus infection	Hantavirus infection
+07998	Chlamydial infection NOS	Unspecified chlamydial infection
+07999	Viral infection NOS	Unspecified viral infection
+38011	Acute infection of pinna	Acute infection of pinna
+51901	Tracheostomy infection	Infection of tracheostomy
+53086	Esophagostomy infection	Infection of esophagostomy
+53641	Gastrostomy infection	Infection of gastrostomy
+64661	Gu infection-delivered	Infections of genitourinary tract in pregnancy, delivered, with or without mention of antepartum condition
+64662	Gu infection-deliv w p/p	Infections of genitourinary tract in pregnancy, delivered, with mention of postpartum complication
+64663	Gu infection-antepartum	Infections of genitourinary tract in pregnancy, antepartum condition or complication
+64664	Gu infection-postpartum	Infections of genitourinary tract in pregnancy, postpartum condition or complication
+5990	Urin tract infection NOS	Urinary tract infection, site not specified
+65840	Amniotic infection-unsp	Infection of amniotic cavity, unspecified as to episode of care or not applicable
+65841	Amniotic infection-deliv	Infection of amniotic cavity, delivered, with or without mention of antepartum condition
+6868	Local skin infection NEC	Other specified local infections of skin and subcutaneous tissue
+6869	Local skin infection NOS	Unspecified local infection of skin and subcutaneous tissue
+77189	Perinatal infection NEC	Other infections specific to the perinatal period
+99859	Other postop infection	Other postoperative infection
+V1242	Personl hx infection CNS	Personal history of infections of the central nervous system
