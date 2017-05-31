@@ -12,7 +12,7 @@
 
 ## 虚拟环境
 
- virtualenv --no-site-packages  tensorflow_env （不适用系统的包）
+ virtualenv -p python3.6 --no-site-packages  tensorflow_env （不适用系统的包）
  
  active使用激活，或者在pycharm中配置interpreter（解释器）
 
@@ -71,6 +71,8 @@ pip install -U --pre keras -i https://pypi.tuna.tsinghua.edu.cn/simple
 - psycopg2   postgresql的驱动
 - pymysql  python3的mysql驱动
  
+- ps -ef| grep `pid`  找到这个pid的用户
+
 
 
 
